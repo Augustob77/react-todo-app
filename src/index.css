@@ -1,0 +1,23 @@
+:root {
+    --neutra-100: #F0ECE5;
+    --neutra-200: #B6BBC4;
+    --neutra-300: #31304D;
+    --neutra-400: #161A30;
+    --green-100: #00FFAB;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-family: 'Lexend', sans-serif;
+}
+
+body {
+    background-color: var(--neutra-400);
+    color: var(--neutra-100);
+}
+
+button {
+    cursor: pointer;
+}
